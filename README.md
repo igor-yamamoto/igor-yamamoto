@@ -3,8 +3,9 @@
 ---
 
 - :computer: Data Engineer Intern at BLU365 :computer:
-- :mortar_board: Engineering Physics at *Escola de Engenharia de São Paulo, Universidade de São Paulo* (EEL-USP) :mortar_board:
+- :mortar_board: Engineering Physics student at *Escola de Engenharia de São Paulo, Universidade de São Paulo* (EEL-USP) :mortar_board:
 - :fountain_pen: Currently learning more about Docker, Java and Spark :fountain_pen:
+
 ---
 
 <!--
