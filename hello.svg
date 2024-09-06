@@ -42,9 +42,10 @@
           code {
             font-family: MyFancyCustomFont, monospace;
             font-size: inherit;
+            background: #ffeff0;
           }
           
-          Code in text
+          /* Code in text */
           p > code,
           li > code,
           dd > code,
