@@ -1,33 +1,51 @@
-## :dragon: hi, I'm `igor yamamoto` :dragon:
+## :dragon: hi, I'm `igor yamamoto`! :dragon:
 
 ---
 
-- :computer: Data Engineer at EloGroup :computer:
-- :mortar_board: Engineering Physics student at *Escola de Engenharia de São Paulo, Universidade de São Paulo* (EEL-USP) :mortar_board:
-- :fountain_pen: Currently learning more about Scala and Big Data tools :fountain_pen:
+<div align="center">
+  <p style="font-size:10px"><i>(an AI-generated representation of what is me and my dog, presumably)</i></p>
+  <a href="https://wangchujiang.com/">
+    <img width="200" height="200" src=".imgs/me&lotus.jpeg" />
+  </a>
+  <br>
+  <br>
+  
+  Hey there, pleased to meet you! 
+  
+  Sr. Data Engineer & Architect, Tech Leader and enthusiast of almost everything in life.
+
+  <p>
+    <a href="https://twitter.com/jaywcjlove">linkedin</a> • 
+    <a href="mailto:igorhc.yamamoto@gmail.com">e-mail</a>
+  <br>
+
+&#128187; Sr. Data Engineer &#128187;
+&#127891; Engineering Physics graduate at Universidade de São Paulo (USP) &#127891;
+🇧🇷 Currently living in Brazil 🇧🇷
+
+</div>
 
 ---
 
-<!--
-#### :wrench: Technologies and tools :wrench:
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+#### topics I love to talk about... :speech_balloon:
+
+- Linux & Open-Source projects
+- Software engineering, development best practices & design patterns
+- Solution architecture & platform engineering
+- Infrastructure as Code
+- (Dev/Data/ML/LLM)Ops
+- Distributed systems
+- Container orchestration & Kubernetes
+- Data modelling, Data Warehouse, Lakehouse & Data governance
+- Project methodologies
+- LLM & Generative AI
 
 ---
 
-
-
-
-**igor-yamamoto/igor-yamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,bash,ansible,terraform,linux,azure,gcp,kubernetes,docker,github" />
+    </a>
+  </p>
+</div>
