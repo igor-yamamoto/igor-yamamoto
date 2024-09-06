@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <p style="font-size:10px"><i>(an AI-generated representation of what is me and my dog, presumably)</i></p>
+  <p style="font-size:6px"><i>(an AI-generated representation of what is me and my dog, presumably)</i></p>
   <a href="https://wangchujiang.com/">
     <img width="200" height="200" src=".imgs/me&lotus.jpeg" />
   </a>
