@@ -20,6 +20,7 @@
   <br>
 
 &#128187; Sr. Data Engineer &#128187;
+
 &#127891; Engineering Physics graduate at Universidade de São Paulo (USP) &#127891;
 🇧🇷 Currently living in Brazil 🇧🇷
 
