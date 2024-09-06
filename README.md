@@ -1,4 +1,8 @@
-## :dragon: hi, I'm `igor yamamoto`! :dragon:
+<!-- ## 🐉 hi, I'm `igor yamamoto`! 🐉 -->
+
+<div align="center" style="width: 100%;">
+  <img src="hello.svg" style="width: 60%;">
+</div>
 
 ---
 
