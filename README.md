@@ -13,15 +13,17 @@
   Hey there, pleased to meet you! 
   
   Sr. Data Engineer & Architect, Tech Leader and enthusiast of almost everything in life.
-
+  <br>
   <p>
     <a href="https://twitter.com/jaywcjlove">linkedin</a> • 
     <a href="mailto:igorhc.yamamoto@gmail.com">e-mail</a>
+  </p>
   <br>
 
 &#128187; Sr. Data Engineer &#128187;
 
 &#127891; Engineering Physics graduate at Universidade de São Paulo (USP) &#127891;
+
 🇧🇷 Currently living in Brazil 🇧🇷
 
 </div>
