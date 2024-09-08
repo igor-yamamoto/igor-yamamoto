@@ -19,7 +19,7 @@
   Sr. Data Engineer & Architect, Tech Leader and enthusiast of almost everything in life.
   <br>
   <p>
-    <a href="https://twitter.com/jaywcjlove">linkedin</a> • 
+    <a href="https://www.linkedin.com/in/igorhcyamamoto/">linkedin</a> • 
     <a href="mailto:igorhc.yamamoto@gmail.com">e-mail</a>
   </p>
   <br>
